@@ -45,8 +45,3 @@ oder baue LEGO-Technic-Modelle.
 
 - **GuideOS Linux** ([@GuideOS](https://github.com/GuideOS)) - lightweight Linux distribution
 - **Compresso AG** ([@Compresso-AG](https://github.com/Compresso-AG)) - Web-Experience Team
-
-## GitHub Stats
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=srueegger&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srueegger&layout=compact&hide_border=true)
